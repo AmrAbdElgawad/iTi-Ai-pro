@@ -1,0 +1,53 @@
+[Pyramid{pharoah=Sneferu, site=Meidum, type=Smooth-faced, height=92.0, dynasty=4}
+, Pyramid{pharoah=Sneferu, site=Dahshur, type=Bent, height=105.0, dynasty=4}
+, Pyramid{pharoah=Sneferu, site=Dahshur, type=Smooth-faced, height=105.0, dynasty=4}
+, Pyramid{pharoah=Khufu, site=Giza, type=TRUE, height=146.6, dynasty=4}
+, Pyramid{pharoah=Djedefre, site=Abu Rawash, type=TRUE, height=67.0, dynasty=4}
+, Pyramid{pharoah=Khafra, site=Giza, type=TRUE, height=143.5, dynasty=4}
+, Pyramid{pharoah=Menkaure, site=Giza, type=TRUE, height=65.5, dynasty=4}
+, Pyramid{pharoah=Khentkawes, site=Giza, type=Step, height=17.5, dynasty=4}
+, Pyramid{pharoah=Userkaf, site=Saqqara, type=TRUE, height=49.0, dynasty=5}
+, Pyramid{pharoah=Sahure, site=Abusir, type=TRUE, height=47.0, dynasty=5}
+, Pyramid{pharoah=Neferirkare Kakai, site=Abusir, type=Step, height=52.0, dynasty=5}
+, Pyramid{pharoah=Nyuserre Ini, site=Abusir, type=Smooth-sided, height=51.68, dynasty=5}
+, Pyramid{pharoah=Djedkare Isesi, site=South Saqqara, type=TRUE, height=52.5, dynasty=5}
+, Pyramid{pharoah=Unas, site=North Saqqara, type=Smooth-sided, height=43.0, dynasty=5}
+, Pyramid{pharoah=Teti, site=North Saqqara, type=Smooth-sided, height=52.5, dynasty=6}
+, Pyramid{pharoah=Pepi I, site=South Saqqara, type=TRUE, height=52.5, dynasty=6}
+, Pyramid{pharoah=Merenre, site=South Saqqara, type=TRUE, height=52.5, dynasty=6}
+, Pyramid{pharoah=Pepi II, site=South Saqqara, type=TRUE, height=52.4, dynasty=6}
+, Pyramid{pharoah=Qakare Ibi, site=South Saqqara, type=TRUE, height=21.0, dynasty=8}
+, Pyramid{pharoah=Amenemhat I, site=Lisht, type=Smooth-faced, height=55.0, dynasty=12}
+, Pyramid{pharoah=Senusret I, site=Lisht, type=Smooth-faced, height=61.25, dynasty=12}
+, Pyramid{pharoah=Senusret II, site=El-Lahun, type=Smooth-faced, height=48.6, dynasty=12}
+, Pyramid{pharoah=Senusret III, site=Dahshur, type=TRUE, height=63.0, dynasty=12}
+, Pyramid{pharoah=Amenemhat III, site=Dahshur, type=TRUE, height=75.0, dynasty=12}
+, Pyramid{pharoah=Amenemhat III, site=Hawara, type=TRUE, height=58.0, dynasty=12}
+, Pyramid{pharoah=Khendjer, site=South Saqqara, type=TRUE, height=37.35, dynasty=13}
+][Pyramid{pharoah=Sneferu, site=Meidum, type=Smooth-faced, height=92.0, dynasty=4}
+, Pyramid{pharoah=Sneferu, site=Dahshur, type=Bent, height=105.0, dynasty=4}
+, Pyramid{pharoah=Sneferu, site=Dahshur, type=Smooth-faced, height=105.0, dynasty=4}
+, Pyramid{pharoah=Khufu, site=Giza, type=TRUE, height=146.6, dynasty=4}
+, Pyramid{pharoah=Djedefre, site=Abu Rawash, type=TRUE, height=67.0, dynasty=4}
+, Pyramid{pharoah=Khafra, site=Giza, type=TRUE, height=143.5, dynasty=4}
+, Pyramid{pharoah=Menkaure, site=Giza, type=TRUE, height=65.5, dynasty=4}
+, Pyramid{pharoah=Khentkawes, site=Giza, type=Step, height=17.5, dynasty=4}
+, Pyramid{pharoah=Userkaf, site=Saqqara, type=TRUE, height=49.0, dynasty=5}
+, Pyramid{pharoah=Sahure, site=Abusir, type=TRUE, height=47.0, dynasty=5}
+, Pyramid{pharoah=Neferirkare Kakai, site=Abusir, type=Step, height=52.0, dynasty=5}
+, Pyramid{pharoah=Nyuserre Ini, site=Abusir, type=Smooth-sided, height=51.68, dynasty=5}
+, Pyramid{pharoah=Djedkare Isesi, site=South Saqqara, type=TRUE, height=52.5, dynasty=5}
+, Pyramid{pharoah=Unas, site=North Saqqara, type=Smooth-sided, height=43.0, dynasty=5}
+, Pyramid{pharoah=Teti, site=North Saqqara, type=Smooth-sided, height=52.5, dynasty=6}
+, Pyramid{pharoah=Pepi I, site=South Saqqara, type=TRUE, height=52.5, dynasty=6}
+, Pyramid{pharoah=Merenre, site=South Saqqara, type=TRUE, height=52.5, dynasty=6}
+, Pyramid{pharoah=Pepi II, site=South Saqqara, type=TRUE, height=52.4, dynasty=6}
+, Pyramid{pharoah=Qakare Ibi, site=South Saqqara, type=TRUE, height=21.0, dynasty=8}
+, Pyramid{pharoah=Amenemhat I, site=Lisht, type=Smooth-faced, height=55.0, dynasty=12}
+, Pyramid{pharoah=Senusret I, site=Lisht, type=Smooth-faced, height=61.25, dynasty=12}
+, Pyramid{pharoah=Senusret II, site=El-Lahun, type=Smooth-faced, height=48.6, dynasty=12}
+, Pyramid{pharoah=Senusret III, site=Dahshur, type=TRUE, height=63.0, dynasty=12}
+, Pyramid{pharoah=Amenemhat III, site=Dahshur, type=TRUE, height=75.0, dynasty=12}
+, Pyramid{pharoah=Amenemhat III, site=Hawara, type=TRUE, height=58.0, dynasty=12}
+, Pyramid{pharoah=Khendjer, site=South Saqqara, type=TRUE, height=37.35, dynasty=13}
+]
